@@ -14,3 +14,9 @@
 
 5ºError al introducir letras u otros caracteres no numéricos: 
 ![Calculadora funciomando](img_calculadora/letras.png)
+
+6ºDivisión por cero:
+![Calculadora funciomando](img_calculadora/dividirporcero.png)
+
+7ºCampos vacíos: 
+![Calculadora funciomando](img_calculadora/dividirporcero.png)
